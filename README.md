@@ -1,2 +1,2 @@
 # Notes
-Open Course for diving security internal
+' Open Course, Training, Speech,and sharing for diving security internal, covering from kernel security, virtualization, input system and firmware security, etc...
